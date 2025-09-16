@@ -1,7 +1,7 @@
+package com.tnsif.second;
 
 public class TypeConversions {
-
-	public static void main(String[] args) {
+   public static void main(String[] args) {
 				/*implicit conversion
 				 * int to float value conversion
 				 */
@@ -16,7 +16,6 @@ public class TypeConversions {
 			double c=20.5;
 			int d=(int)c;
 			System.out.println(d);
-			
 	}
 
 }
