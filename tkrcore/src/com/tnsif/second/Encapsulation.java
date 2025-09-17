@@ -1,9 +1,9 @@
 package com.tnsif.second;
 class Car{
-	String color = "Red";
-	String brand = "Toyota";
+	String color = "black";
+	String brand = "curvv";
 	String engineType = "Petrol";
-	int seatingCapacity = 6;
+	int seatingCapacity = 5;
 	
 	public void start() {
 		System.out.println("Car is starting");
